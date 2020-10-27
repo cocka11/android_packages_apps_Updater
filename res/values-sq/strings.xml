@@ -19,7 +19,7 @@
     <string name="display_name">Përditësuesi</string>
     <string name="verification_failed_notification">Verifikimi dështoi</string>
     <string name="verifying_download_notification">Duke verifikuar përditësimin</string>
-    <string name="downloading_notification">Duke u shkarkuar</string>
+    <string name="downloading_notification">Duke u shkarkuar..</string>
     <string name="download_paused_notification">Shkarkimi ndaloi</string>
     <string name="download_paused_error_notification">Problem në shkarkim</string>
     <string name="download_completed_notification">Shkarkimi përfundoi</string>
@@ -32,7 +32,7 @@
     <string name="resume_button">Rinis</string>
     <string name="suspend_button">Pezullu</string>
     <string name="installing_update">Duke instaluar paketën e përditësimit</string>
-    <string name="installing_update_error">Gabim në instalim</string>
+    <string name="installing_update_error">Gabim gjatë instalimit</string>
     <string name="installing_update_finished">Përditesimi u instalua</string>
     <string name="finalizing_package">Në perfundim të instalimit të paketës</string>
     <string name="preparing_ota_first_boot">Po përgatitet për ndezjen e parë</string>
