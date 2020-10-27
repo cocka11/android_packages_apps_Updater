@@ -32,7 +32,7 @@
     <string name="resume_button">Rinis</string>
     <string name="suspend_button">Pezullu</string>
     <string name="installing_update">Duke instaluar paketën e përditësimit</string>
-    <string name="installing_update_error">Gabim në instalim</string>
+    <string name="installing_update_error">Gabim gjatë instalimit</string>
     <string name="installing_update_finished">Përditesimi u instalua</string>
     <string name="finalizing_package">Në perfundim të instalimit të paketës</string>
     <string name="preparing_ota_first_boot">Po përgatitet për ndezjen e parë</string>
